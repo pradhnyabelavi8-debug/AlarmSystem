@@ -1,3 +1,4 @@
+
 # ⏰ Java Alarm Setting System
 
 A fully featured, console-based Alarm Setting System built in pure Java (no external libraries).
@@ -118,3 +119,7 @@ java -cp out alarm.AlarmManagerTest
 ║  Repeat  : DAILY                             ║
 ╚══════════════════════════════════════════════╝
 ```
+
+# AlarmSystem
+Develop a Java-based Alarm Setting System that allows users to set, update, and delete alarms, triggers notifications at the specified time, and displays the list of active alarms using appropriate classes, constructors, and methods.
+>>>>>>> 422e651189c2ca9a267c990cc9a4f3d45230d0d3
